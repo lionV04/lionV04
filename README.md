@@ -33,7 +33,6 @@
 - **Computer Languages**:
   
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![SQL](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white)
     ![MYSQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 
