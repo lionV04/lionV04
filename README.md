@@ -38,9 +38,11 @@
 
 
 <h1 align="center"> meet my favorite (he is a boy, and i'm not pride beliver) <h1/>
-<br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align = "center">
+	<img align = "center" src = "https://github.com/lionV04/lionV04/blob/main/hiura.jpg">
+</p>
+
 
 
 <!---
